@@ -1,0 +1,41 @@
+<attractor type="strange_attractor">
+ <start_point>
+  <start_x value="0.1"/>
+  <start_y value="0.1"/>
+  <start_z value="-1"/>
+ </start_point>
+ <window_size>
+  <width value="800"/>
+  <height value="600"/>
+ </window_size>
+ <coefficients>
+  <coef_a value="-190"/>
+  <coef_b value="30.47"/>
+  <coef_c value="1"/>
+  <coef_d value="0.79"/>
+ </coefficients>
+ <iterations value="3498542"/>
+ <colors>
+  <background>
+   <back_col_r value="0.2"/>
+   <back_col_g value="0.2"/>
+   <back_col_b value="0.2"/>
+   <back_col_a value="1"/>
+  </background>
+  <foreground>
+   <fore_col_r value="1"/>
+   <fore_col_g value="1"/>
+   <fore_col_b value="1"/>
+   <fore_col_a value="0.01"/>
+  </foreground>
+ </colors>
+ <rotation>
+  <rot_a value="0.5"/>
+  <rot_b value="1"/>
+  <rot_c value="1"/>
+  <rot_d value="1"/>
+  <speed value="0.16"/>
+  <rot_auto value="false"/>
+  <rot_mouse value="false"/>
+ </rotation>
+</attractor>
