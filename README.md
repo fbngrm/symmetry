@@ -10,7 +10,7 @@
 <img src="/examples/04.png" alt="DiscoPy" width="600px">
 <img src="/examples/09.png" alt="DiscoPy" width="600px">
 <img src="/examples/11.png" alt="DiscoPy" width="600px">
-<img src="/examples/21.png" alt="DiscoPy" width="600px">
+<img src="/examples/15.png" alt="DiscoPy" width="600px">
 <img src="/examples/24.png" alt="DiscoPy" width="600px">
 
 #Dependencies
